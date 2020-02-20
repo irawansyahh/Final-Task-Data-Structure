@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1543131326 source:i:\materi kuliah[semester3]\struktur data\tubes\mahasiswa_ukm\kontruksi.cpp
+	"header.h"
+
+1543131326 i:\materi kuliah[semester3]\struktur data\tubes\mahasiswa_ukm\header.h
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+
+1543131347 source:i:\materi kuliah[semester3]\struktur data\tubes\mahasiswa_ukm\main.cpp
+	"header.h"
+
+1543899944 source:d:\coding strukdat\tubes\mahasiswa_ukm(2)\mahasiswa_ukm\main.cpp
+	"header.h"
+
+1543899913 d:\coding strukdat\tubes\mahasiswa_ukm(2)\mahasiswa_ukm\header.h
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+
+1543913585 source:d:\coding strukdat\tubes\mahasiswa_ukm(2)\mahasiswa_ukm\kontruksi.cpp
+	"header.h"
+
